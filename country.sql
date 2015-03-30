@@ -1,8 +1,3 @@
--- 
--- Dumping data for table `country`
--- 
-
-
 INSERT INTO country (id, ad) VALUES (1, 'Türkiye')
 INSERT INTO country (id, ad) VALUES (3, 'United States of America')
 INSERT INTO country (id, ad) VALUES (4, 'Germany')
