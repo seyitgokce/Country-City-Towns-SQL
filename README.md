@@ -1,7 +1,6 @@
 # Country-City-Towns-SQL
 
 
-Hello. My name is Seyit. 
 
 
 There are 3 sql files.
